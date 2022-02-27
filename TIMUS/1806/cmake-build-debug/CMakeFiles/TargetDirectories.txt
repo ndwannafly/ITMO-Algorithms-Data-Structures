@@ -1,0 +1,3 @@
+/home/ndwannafly/CLionProjects/ALGO_ITMO/TIMUS/1806/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ndwannafly/CLionProjects/ALGO_ITMO/TIMUS/1806/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ndwannafly/CLionProjects/ALGO_ITMO/TIMUS/1806/cmake-build-debug/CMakeFiles/1806.dir
