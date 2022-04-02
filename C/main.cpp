@@ -71,6 +71,6 @@ void recursion(){
 }
 
 int main() {
-    //freopen("C.inp", "r", stdin);
+    freopen("C.inp", "r", stdin);
     recursion();
 }
