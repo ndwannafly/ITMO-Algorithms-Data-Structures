@@ -1,3 +1,0 @@
-/home/ndwannafly/CLionProjects/ALGO_ITMO/T/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ndwannafly/CLionProjects/ALGO_ITMO/T/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ndwannafly/CLionProjects/ALGO_ITMO/T/cmake-build-debug/CMakeFiles/T.dir
